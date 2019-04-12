@@ -1,0 +1,5 @@
+com\javabycode\springboot\bean\AbsenceType.class
+com\javabycode\springboot\controller\RestfulController.class
+com\javabycode\springboot\bean\Absence.class
+com\javabycode\springboot\MySpringBootApplication.class
+com\javabycode\springboot\bean\Status.class
